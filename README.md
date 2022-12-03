@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @IsmailSalehCode
 - 👀 I’m interested in full-stack web development and security surveillance tech
+- Main stack: Vue, Node (Express) & MySQL
 - 🌱 I’m currently learning CSE @ Technical-University of Sofia
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me : centriu78@gmail.com

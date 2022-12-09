@@ -1,6 +1,6 @@
 Developer of https://blueskyinvest.xyz/ and https://de-dental.com/
 
-Currently enrolled in CSE @ Technical-University of Sofia
+Currently enrolled in CSE bachelor's program @ Technical-University of Sofia
 
 How to reach me : centriu78@gmail.com
 

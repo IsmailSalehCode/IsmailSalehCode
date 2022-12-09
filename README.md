@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @IsmailSalehCode
-- Developer of https://blueskyinvest.xyz/ and https://de-dental.com/
-- 👀 I’m interested in full-stack web development and security surveillance tech
-- 🌱 I’m currently learning CSE @ Technical-University of Sofia
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me : centriu78@gmail.com
+Developer of https://blueskyinvest.xyz/ and https://de-dental.com/
+
+Currently enrolled in CSE @ Technical-University of Sofia
+
+How to reach me : centriu78@gmail.com
 
 <!---
 IsmailSalehCode/IsmailSalehCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

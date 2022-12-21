@@ -1,4 +1,5 @@
 Sole developer of https://blueskyinvest.xyz/ and https://de-dental.com/
+Most of my projects are not open source, yet.
 
 Currently enrolled in CSE bachelor's program @ Technical-University of Sofia
 

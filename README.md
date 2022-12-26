@@ -4,6 +4,7 @@ Most of my projects are not open source, yet.
 Currently enrolled in CSE bachelor's program @ Technical-University of Sofia
 
 How to reach me : centriu78@gmail.com
+Disclaimer: Not looking for work at the moment.
 
 <!---
 IsmailSalehCode/IsmailSalehCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

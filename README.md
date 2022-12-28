@@ -1,7 +1,9 @@
 Sole developer of https://blueskyinvest.xyz/ and https://de-dental.com/<br/>
 Most of my projects are not open source, yet.
 
-Currently enrolled in CSE bachelor's program @ Technical-University of Sofia
+Currently:
+- Enrolled in CSE bachelor's program @ Technical-University of Sofia
+- Working on my vanilla CSS and JS skills.
 
 How to reach me : centriu78@gmail.com<br/>
 

@@ -3,7 +3,7 @@ Most of my projects are not open source, yet.
 
 Currently:
 - Enrolled in CSE bachelor's program @ Technical-University of Sofia
-- Working on my vanilla CSS and JS skills.
+- Working on personal projects.
 
 How to reach me : centriu78@gmail.com<br/>
 

@@ -1,4 +1,4 @@
-Full-stack developer of:<br/>
+Sole full-stack developer of:<br/>
 [Blue Sky Invest Ltd. company website](https://blueskyinvest.xyz) | Technologies: VueJS, NodeJS<br/>
 [Ilievi's Dental practice website](https://de-dental.com) | Technologies: VueJS, NodeJS, MySQL<br/>
 <br/>

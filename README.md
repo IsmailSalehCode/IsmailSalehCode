@@ -1,3 +1,7 @@
+Full-stack developer of:
+blueskyinvest.xyz | Technologies: VueJS, NodeJS
+de-dental.com | Technologies: VueJS, NodeJS, MySQL
+
 Most of my projects are not open source, yet.
 
 Currently:

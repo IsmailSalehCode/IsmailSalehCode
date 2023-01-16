@@ -1,9 +1,9 @@
-Full-stack developer of:
-blueskyinvest.xyz | Technologies: VueJS, NodeJS
-de-dental.com | Technologies: VueJS, NodeJS, MySQL
-
-Most of my projects are not open source, yet.
-
+Full-stack developer of:<br/>
+blueskyinvest.xyz | Technologies: VueJS, NodeJS<br/>
+de-dental.com | Technologies: VueJS, NodeJS, MySQL<br/>
+<br/>
+Most of my projects are not open source, yet.<br/>
+<br/>
 Currently:
 - Enrolled in CSE bachelor's program @ Technical-University of Sofia
 - Working on personal projects.

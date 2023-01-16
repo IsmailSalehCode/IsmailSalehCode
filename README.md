@@ -1,6 +1,6 @@
 Full-stack developer of:<br/>
-blueskyinvest.xyz | Technologies: VueJS, NodeJS<br/>
-de-dental.com | Technologies: VueJS, NodeJS, MySQL<br/>
+[Blue Sky Invest Ltd. company website](https://blueskyinvest.xyz) | Technologies: VueJS, NodeJS<br/>
+[Ilievi's Dental practice website](https://de-dental.com) | Technologies: VueJS, NodeJS, MySQL<br/>
 <br/>
 Most of my projects are not open source, yet.<br/>
 <br/>
